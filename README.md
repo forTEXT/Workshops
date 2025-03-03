@@ -4,7 +4,7 @@ _Repository mit Ressourcen für Workshops_
 
 ## DHd2025 
 ### Workshop "Textannotation in der Lehre einsetzen: Ein Einstieg mit CATMA"
-02.03.-03.03.2025, Universität Bielefeld
+03.03.-04.03.2025, Universität Bielefeld
 
 Linksammlung:
 - [Workshop Slides](DHd2025/20250302_DHd2025_Lehre_CATMA_Workshop.pdf)
