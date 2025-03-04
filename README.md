@@ -10,3 +10,6 @@ Linksammlung:
 - [Ressourcensammlung](https://docs.google.com/document/d/1wlwb9LFbVhzjb6RM-Ie80n-Dryv5_8LLS6TZiC_dyuw/edit?usp=sharing)
 - [How-to-CATMA-GitMA-lehren](https://docs.google.com/document/d/1TyBvJ1VTM-6dUm7cgBdWFGU3Cd3iAPExZTYXdvIJWVg/edit?usp=sharing)
 
+- [Mentimeter-Quiz](https://www.menti.com/), Code: 6336 7714
+- [Miro-Board](https://miro.com/app/board/uXjVIZ-mgbY=/?share_link_id=817753548746)
+
